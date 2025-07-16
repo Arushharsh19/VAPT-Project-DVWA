@@ -10,7 +10,7 @@ This repository contains the final submission for my **Vulnerability Assessment 
 
 This project involved conducting a structured vulnerability assessment and penetration test on **DVWA (Damn Vulnerable Web Application)** — a deliberately insecure web application for testing common web vulnerabilities.
 
-The objective was to:
+The objective was to: 
 - Identify security flaws
 - Exploit them ethically
 - Document the technical process
