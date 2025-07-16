@@ -36,9 +36,9 @@ The final report includes **screenshots**, **burp suite analysis**, **OWASP mapp
 | 1      | SQL Injection                                              | Critical | A03      |
 | 2      | Blind SQL Injection                                        | Critical | A03      |
 | 3      | Command Injection                                          | Critical | A03      |
-| 4      | Stored Cross-Site Scripting (XSS)                          | Critical | A07      |
-| 5      | Reflected Cross-Site Scripting (XSS)                       | Critical | A07      |
-| 6      | DOM-Based Cross-Site Scripting (XSS)                       | High     | A07      |
+| 4      | Stored Cross-Site Scripting (XSS)                          | Critical | A03      |
+| 5      | Reflected Cross-Site Scripting (XSS)                       | Critical | A03      |
+| 6      | DOM-Based Cross-Site Scripting (XSS)                       | High     | A03      |
 | 7      | CSP Bypass (Security Misconfiguration)                     | High     | A05      |
 | 8      | File Inclusion (LFI)                                       | High     | A05      |
 | 9      | File Upload (Unrestricted File Types)                      | Critical | A05      |
