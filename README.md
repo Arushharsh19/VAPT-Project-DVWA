@@ -22,8 +22,6 @@ The final report includes **screenshots**, **burp suite analysis**, **OWASP mapp
 
 ## ✅ Deliverables
 
-## ✅ Deliverables
-
 - 📘 `Arush_VAPT_Report.pdf` – Final project report with embedded screenshots and documentation
 - 🧪 `csrf-poc.html` – CSRF Proof-of-Concept file generated using Burp Suite Professional
 - 📄 `README.md` – Project summary and repository documentation 
